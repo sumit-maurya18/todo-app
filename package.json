@@ -3,7 +3,7 @@
     "dotenv": "^17.2.2"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   }
 }
 
